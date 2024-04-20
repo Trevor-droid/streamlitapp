@@ -1,0 +1,4 @@
+supabase
+plotly.express
+streamlit
+openpyxl
